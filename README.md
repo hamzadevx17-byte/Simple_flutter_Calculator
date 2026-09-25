@@ -13,6 +13,6 @@ A clean and simple Calculator application built using **Flutter** and **Dart**. 
 * Structuring code for basic mathematical logic.
 
 ## 🛠️ How to Run
-1. Clone this repository: `git clone <YOUR_REPOSITORY_LINK>`
-2. Navigate to the project folder: `cd <FOLDER_NAME>`
+1. Clone this repository: `git clone https://github.com/hamzadevx17-byte/Simple_flutter_Calculator.git`
+2. Navigate to the project folder: `cd Simple_flutter_Calculator`
 3. Run the app: `flutter run`
